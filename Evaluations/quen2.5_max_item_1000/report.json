@@ -1,0 +1,17 @@
+{
+  "overall": 0.353,
+  "per_category": {
+    "Bacteria": 0.30973451327433627,
+    "Fungus": 0.3825910931174089,
+    "Phytoplasma": 0.3492063492063492,
+    "Virus": 0.375,
+    "Environmental": 0.2,
+    "Nutritional": 0.16666666666666666,
+    "Algae": 0.3333333333333333,
+    "Parasitic": 0.5
+  },
+  "per_source": {
+    "did": 0.353
+  },
+  "n": 1000
+}
